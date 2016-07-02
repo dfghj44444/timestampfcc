@@ -1,0 +1,30 @@
+{
+  "name": "timestamp-api",
+  "version": "0.0.1",
+  "description": "xm's fcc Timestamp microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfghj44444/timestampfcc.git"
+  },
+  "keywords": [
+    "API",
+    "OneDouble",
+    "TimeStamp",
+    "NODE"
+  ],
+  "author": "xm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfghj44444/timestampfcc/issues"
+  },
+  "homepage": "https://github.com/dfghj44444/timestampfcc/issues#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  }
+}
